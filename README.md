@@ -108,8 +108,9 @@ Place images and other media assets in the `_media/` folder. Reference them in y
 
 1. Clone or copy this vault to your Obsidian workspace.
 2. Open with Obsidian.
-3. Duplicate templates from `_templates/` as needed.
-4. Use the `Home/@Home.md` as your dashboard.
+3. Change the vault title in Obsidian settings to match your project or personal preference.
+4. Duplicate templates from `_templates/` as needed.
+5. Use the `Home/@Home.md` as your dashboard.
 
 ## License
 
@@ -118,3 +119,7 @@ Specify your license here if applicable.
 ## Credits
 
 Created and maintained by [@philipgomesph](https://github.com/philipgomesph)
+
+## Suggested Plugins
+
+See the [SUGGESTED-PLUGINS.md](./SUGGESTED-PLUGINS.md) file for a curated list of recommended plugins to enhance your Obsidian experience with this vault.
