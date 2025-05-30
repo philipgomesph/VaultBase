@@ -41,3 +41,15 @@ Version control your notes and sync with remote repositories using Git.
 ---
 
 To install plugins, go to **Settings > Community plugins** in Obsidian, search for the plugin name, and follow the installation instructions.
+
+---
+
+## Thanks & Contributions
+
+Special thanks to [@iKohlVictor](https://github.com/iKohlVictor) for plugin suggestions and support. Contributions and new plugin suggestions are welcome!
+
+---
+
+## Patch Notes
+
+See [PATCH-NOTES.md](./PATCH-NOTES.md) for the full changelog and project history.

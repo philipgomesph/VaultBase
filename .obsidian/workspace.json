@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Home/Example Folder 2/Example Note 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Example Note 2"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Home/Example Folder 2/Example Note 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Example Note 2"
             }
           },
           {
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Home/Example Folder 2/Example Note 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Example Note 2"
             }
           }
         ]
@@ -189,8 +189,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9f6b70b66947bff8",
+  "active": "8d28ab0cb706064c",
   "lastOpenFiles": [
+    "README.md",
     "SUGGESTED-PLUGINS.md",
     "PATCH-NOTES.md",
     "_secrets/_envs/env.example.md",
@@ -218,7 +219,6 @@
     "_secrets/tokens.md",
     "Obsidian-Examples/04-Dataview-Example.md",
     "Obsidian-Examples/03-Backlinks-and-Graph.md",
-    "Obsidian-Examples/02-Templates.md",
     "_media/Pasted image 20250530144208.png",
     "_media/Pasted image 20250530144010.png",
     "Excalidraw",

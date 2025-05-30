@@ -14,3 +14,9 @@ All notable changes to this project will be documented in this file.
 - Created the PATCH-NOTES.md file to log changes.
 - Added the Iconize plugin to the project.
 - Created the SUGGESTED-PLUGINS.md file with a list of recommended plugins for Obsidian.
+
+## [2024-05-30] (latest update)
+
+- Added a thanks & contributions section to SUGGESTED-PLUGINS.md, highlighting @iKohlVictor.
+- Added a special thanks section to README.md for @iKohlVictor, @EsdrasSantosDV, and @geraldocabral.
+- Added a reference to PATCH-NOTES.md at the end of SUGGESTED-PLUGINS.md.

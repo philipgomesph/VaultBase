@@ -123,3 +123,11 @@ Created and maintained by [@philipgomesph](https://github.com/philipgomesph)
 ## Suggested Plugins
 
 See the [SUGGESTED-PLUGINS.md](./SUGGESTED-PLUGINS.md) file for a curated list of recommended plugins to enhance your Obsidian experience with this vault.
+
+## Special Thanks
+
+Thanks to everyone who helped test Obsidian and contributed feedback to shape this preset:
+
+- [@iKohlVictor](https://github.com/iKohlVictor)
+- [@EsdrasSantosDV](https://github.com/EsdrasSantosDV)
+- [@geraldocabral](https://github.com/geraldocabral)
