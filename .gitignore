@@ -1,11 +1,6 @@
-_/secrets
-_/secrets/*
+_secrets/
+_secrets/*
 
-/Obsidian-Examples/
-  01-Linked-Notes.md
-  02-Templates.md
-  03-Backlinks-and-Graph.md
-  04-Dataview-Example.md
-  05-Tasks-Example.md
-  06-Daily-Journal.md
-  07-Personal-Dashboard.md
+_envs/
+_envs/*
+

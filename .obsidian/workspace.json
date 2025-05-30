@@ -189,8 +189,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f7e7cce1052a956b",
+  "active": "9f6b70b66947bff8",
   "lastOpenFiles": [
+    "_secrets/_envs/env.example.md",
+    "_secrets/_envs/env.example.env",
     "Home/@Home.md",
     "_templates/template - checklist.md",
     "Home/Example Folder 2/Example Note 2.md",
@@ -218,7 +220,6 @@
     "Excalidraw/Drawing 2025-05-30 14.38.30.excalidraw.md",
     "[media.md",
     "_media/Pasted image 20250530144208.png",
-    "README.md",
     "_media/Pasted image 20250530144010.png",
     "Excalidraw",
     "_secrets/_envs",
@@ -227,7 +228,6 @@
     "Home",
     "_canvas",
     "_templates",
-    "_secrets",
-    "_media"
+    "_secrets"
   ]
 }
