@@ -131,3 +131,4 @@ Thanks to everyone who helped test Obsidian and contributed feedback to shape th
 - [@iKohlVictor](https://github.com/iKohlVictor)
 - [@EsdrasSantosDV](https://github.com/EsdrasSantosDV)
 - [@geraldocabral](https://github.com/geraldocabral)
+- [@MaiconPereira](https://github.com/MaiconPereira)

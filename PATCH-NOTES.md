@@ -18,5 +18,5 @@ All notable changes to this project will be documented in this file.
 ## [2024-05-30] (latest update)
 
 - Added a thanks & contributions section to SUGGESTED-PLUGINS.md, highlighting @iKohlVictor.
-- Added a special thanks section to README.md for @iKohlVictor, @EsdrasSantosDV, and @geraldocabral.
+- Added a special thanks section to README.md for @iKohlVictor, @EsdrasSantosDV, @MaiconPereira, and @geraldocabral.
 - Added a reference to PATCH-NOTES.md at the end of SUGGESTED-PLUGINS.md.
