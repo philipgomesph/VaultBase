@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "fa8d01bd8eaac34e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bb049ffcca18a0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7e7cce1052a956b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6e5146d438dedd77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d28ab0cb706064c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/Example Folder 2/Example Note 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Example Note 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea5775b71885f9b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "838a096738dcb5d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f6b70b66947bff8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "af56457f2a735aa4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a5e3e849873fafd6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c4bf92edf581c99",
+    "type": "split",
+    "children": [
+      {
+        "id": "54b2accb423a86c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d5effbad0dd65c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "607bc95652ef0f45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "c3c23ab3bff5982d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4b79f75a8a68e944",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "f7e7cce1052a956b",
+  "lastOpenFiles": [
+    "Home/@Home.md",
+    "_templates/template - checklist.md",
+    "Home/Example Folder 2/Example Note 2.md",
+    "_templates/template - meeting.md",
+    "Home/Example Folder/Example Note.md",
+    "Obsidian-Examples/01-Linked-Notes.md",
+    "Obsidian-Examples/05-Tasks-Example.md",
+    "Obsidian-Examples/06-Daily-Journal.md",
+    "Obsidian-Examples/07-Personal-Dashboard.md",
+    "_templates/snippet - code block.md",
+    "Tasks Plugin Example.md",
+    "_templates/template - daily.md",
+    "_templates/template - daily - fit.md",
+    "_templates/template - Date.md",
+    "Obsidian-Examples",
+    "Daily Journal Example.md",
+    "Dataview Example.md",
+    "<% tp.date.now(\"dddd, MMMM Do YYYY\", -1) %>.md",
+    "_templates/template - daily-journal.md",
+    "<% tp.date.now(\"dddd, MMMM Do YYYY\", 1) %>.md",
+    "_secrets/tokens.md",
+    "Obsidian-Examples/04-Dataview-Example.md",
+    "Obsidian-Examples/03-Backlinks-and-Graph.md",
+    "Obsidian-Examples/02-Templates.md",
+    "Excalidraw/Drawing 2025-05-30 14.38.30.excalidraw.md",
+    "[media.md",
+    "_media/Pasted image 20250530144208.png",
+    "README.md",
+    "_media/Pasted image 20250530144010.png",
+    "Excalidraw",
+    "_secrets/_envs",
+    "Home/Example Folder 2",
+    "Home/Example Folder",
+    "Home",
+    "_canvas",
+    "_templates",
+    "_secrets",
+    "_media"
+  ]
+}
